@@ -458,6 +458,8 @@
 		/**
 		 * @desc Initialize Google maps
 		 */
+		const googleMapsApiKey = process.env.GOOGLE_MAPS_API_KEY;
+
 		function initMaps() {
 			var key;
 
