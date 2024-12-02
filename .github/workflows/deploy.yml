@@ -43,5 +43,5 @@ jobs:
         server: ftp://your-ftp-server.com
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: ./public  # Složka v repozitáři (výstup build procesu)
-        server-dir: /  # Kořenový adresář na serveru
+        local-dir: ./public 
+        server-dir: /public_html
