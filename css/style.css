@@ -181,7 +181,7 @@ h1 .big,
 
 h1 .biggest,
 .heading-1 .biggest {
-	font-size: 0.6em;
+	font-size: 1.2em;
 	line-height: 1em;
 	letter-spacing: -.02em;
 	text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.35);
